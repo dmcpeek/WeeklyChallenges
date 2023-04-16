@@ -1,10 +1,11 @@
 ﻿using System;
+using System.ComponentModel.Design;
 
 namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet01
     {
-        public bool AreTwoNumbersTheSame(int num1, int num2)
+        public static bool AreTwoNumbersTheSame(int num1, int num2)
         {
             if(num1 == num2)
             {
@@ -16,34 +17,44 @@ namespace ChallengesWithTestsMark8
             }
         }
 
-        public double Subtract(double minuend, double subtrahend)
+        public static double Subtract(double minuend, double subtrahend)
         {
-            throw new NotImplementedException();
+
+            return (minuend - subtrahend);
+            //throw new NotImplementedException();
         }
 
-        public int Add(int number1, int number2)
+        public static int Add(int number1, int number2)
         {
-            throw new NotImplementedException();
+            return (number1 + number2);
+            //throw new NotImplementedException();
         }
 
-        public int GetSmallestNumber(int number1, int number2)
+        public static int GetSmallestNumber(int number1, int number2)
         {
-            throw new NotImplementedException();
+            if (number1 < number2)
+                return number1;
+            else
+                return number2;
+            //throw new NotImplementedException();
         }
 
-        public long Multiply(long factor1, long factor2)
+        public static long Multiply(long factor1, long factor2)
         {
-            throw new NotImplementedException();
+            return (factor1 * factor2);
+            //throw new NotImplementedException();
         }
 
-        public string GetGreeting(string nameOfPerson)
+        public static string GetGreeting(string nameOfPerson)
         {
-            throw new NotImplementedException();
+            return ($"Afternoon {nameOfPerson}. How's your family doin'?");
+            //throw new NotImplementedException();
         }
 
-        public string GetHey()
+        public static string GetHey()
         {
-            throw new NotImplementedException();
+            return ($"How many ways can you spell hey? Did you think of hay and hae?"); ;
+            //throw new NotImplementedException();
         }
     }
 }
