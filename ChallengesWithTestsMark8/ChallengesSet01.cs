@@ -48,15 +48,15 @@ namespace ChallengesWithTestsMark8
         public string GetGreeting(string nameOfPerson)
         {
             if (nameOfPerson == "")
-                return "Hello";
+                return "Hello!";
             else
-                return ("Hello, {nameOfPerso}!");
+                return ($"Hello, {nameOfPerson}!");
             //throw new NotImplementedException();
         }
 
         public string GetHey()
         {
-            return ("Hey!");
+            return ("HEY!");
             //throw new NotImplementedException();
         }
     }
