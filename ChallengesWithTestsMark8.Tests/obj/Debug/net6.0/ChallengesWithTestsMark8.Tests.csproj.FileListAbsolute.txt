@@ -1,8 +1,3 @@
-C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
-C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
-C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
-C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\ChallengesWithTestsMark8.deps.json
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\ChallengesWithTestsMark8.runtimeconfig.json
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\ChallengesWithTestsMark8.exe
@@ -96,6 +91,11 @@ C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\ChallengesWithTestsMark8.dll
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net6.0\ChallengesWithTestsMark8.pdb
+C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.dll
 C:\Users\dmcpe\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\refint\ChallengesWithTestsMark8.Tests.dll
