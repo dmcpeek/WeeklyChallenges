@@ -108,13 +108,15 @@ namespace ChallengesWithTestsMark8
 
         public double AverageEvens(int[] numbers)
         {
-            double sum = 0;
-            double count = 0;
-            double length = numbers.Length;
-            if (numbers == null || length == 0) // null isn't working
+            if (numbers == null || numbers.Length == 0) // null isn't working
             {
                 return 0;
             }
+            
+            double sum = 0;
+            double count = 0;
+            double length = numbers.Length;
+
 
             foreach (int num in numbers)
             {
