@@ -108,7 +108,7 @@ namespace ChallengesWithTestsMark8
 
         public double AverageEvens(int[] numbers)
         {
-            if (numbers == null || numbers.Length == 0) // null isn't working
+            if (numbers == null || numbers.Length == 0)
             {
                 return 0;
             }
